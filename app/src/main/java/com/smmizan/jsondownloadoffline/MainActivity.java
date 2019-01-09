@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
     Button SaveButtonInSQLite, ShowSQLiteDataInListView;
 
-    String HttpJSonURL = "http://118.179.136.20/MizanWeb/Retrofit/products.php";
+    String HttpJSonURL = "http://yoursite/products.php";
 
     ProgressDialog progressDialog;
 
